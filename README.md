@@ -17,7 +17,17 @@ Cheersly is an app that lets you review certain drinks based off taste, presenta
 * Javascript
 * CSS 
 
+## View Cheersly
+Start using Cheersly here: [URL]
+
 [Project management](https://trello.com/invite/b/ukUg8UXn/ATTI2d31fc5b916e9f3f71c559883366dafbE041AA64/unit-2-project) on Trello
+
+## Features 
+* __Profile Settings__: Create an account, view reviews they've posted, and login/logout
+* __User Authentication__: Sign up securly using your Google Account
+* __Reviews by drink__: View all reviews for a certain drink, see the top rated restaurant for that drink, leave a review
+* __Restaurant Drinks__: View all drinks at a particular restaurant, see the restaurants average scores
+* __Responsive Design__: Optimized for both Mobile and Desktop
 
 
 ## Credits
